@@ -1,5 +1,5 @@
 // A linked list program to insert a node at the beginning.
-// this is change for second commit
+// this is change for second 2 commit
 
 #include <stdlib.h>
 #include <stdio.h>    */
